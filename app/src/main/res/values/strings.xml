@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AltaUsuario</string>
+    <string name="notas_de_alumnos">Notas de Alumnos</string>
+    <string name="title_textView">title_textView</string>
+    <string name="name_editText">name_editText</string>
+    <string name="subject_editText">subject_editText</string>
+    <string name="mark_editText">mark_editText</string>
+    <string name="save_button">save_button</string>
+    <string name="list_textView">list_textView</string>
+</resources>

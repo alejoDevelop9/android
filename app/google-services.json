@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "945031339705",
+    "firebase_url": "https://appservice-8348b.firebaseio.com",
+    "project_id": "appservice-8348b",
+    "storage_bucket": "appservice-8348b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945031339705:android:44bb0e3ea3ba44945c8568",
+        "android_client_info": {
+          "package_name": "com.alejo.altausuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945031339705-bp2n97094i2mq4l0du7cn6pne48cfh7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWq0Sww9DdjS_EoOGbjAjfblK-NpLCpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945031339705-bp2n97094i2mq4l0du7cn6pne48cfh7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945031339705:android:2f4d5d078d3436105c8568",
+        "android_client_info": {
+          "package_name": "com.alejo.seccion_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945031339705-bp2n97094i2mq4l0du7cn6pne48cfh7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWq0Sww9DdjS_EoOGbjAjfblK-NpLCpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945031339705-bp2n97094i2mq4l0du7cn6pne48cfh7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
